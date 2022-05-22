@@ -1,0 +1,26 @@
+.active-tab {
+  color: #fec653;
+  margin-left: 10px;
+  border-bottom: 3px solid #fec653;
+}
+.inactive-tab {
+  color: #ffffff;
+  margin-left: 10px;
+  cursor: pointer;
+}
+.tab-button {
+  outline: none;
+  border: none;
+  background-color: transparent;
+  margin-bottom: 8px;
+  font-size: 18px;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.active-tab-btn {
+  color: #fec653;
+}
+.inactive-tab-btn {
+  color: #ffffff;
+}
